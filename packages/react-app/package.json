@@ -58,6 +58,7 @@
     "web3modal": "^1.9.1"
   },
   "devDependencies": {
+    "web3": "^1.7.0",
     "@apollo/client": "^3.3.21",
     "@testing-library/dom": "^6.12.2",
     "@types/react": "^16.9.19",

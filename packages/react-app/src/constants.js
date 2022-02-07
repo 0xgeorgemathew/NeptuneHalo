@@ -2,7 +2,7 @@
 export const INFURA_ID = "460f40a260564ac4a4f4b3fffb032dad";
 
 // MY ETHERSCAN_ID, SWAP IN YOURS FROM https://etherscan.io/myapikey
-export const ETHERSCAN_KEY = "MERWPDDCPJ3STI7MYX826G955XE3A4BDQA";
+export const ETHERSCAN_KEY = "DNXJA8RX2Q3VZ4URQIWP7Z68CJXQZSC6AW";
 
 // BLOCKNATIVE ID FOR Notify.js:
 export const BLOCKNATIVE_DAPPID = "0b58206a-f3c0-4701-a62f-73c7243e8c77";
@@ -81,7 +81,7 @@ export const NETWORKS = {
     chainId: 80001,
     price: 1,
     gasPrice: 1000000000,
-    rpcUrl: "https://rpc-mumbai.maticvigil.com",
+    rpcUrl: "https://polygon-mumbai.g.alchemy.com/v2/dXIJFY8MC1di7nLqKJ4K5X0-Y4jZFlYL",
     faucet: "https://faucet.polygon.technology/",
     blockExplorer: "https://mumbai.polygonscan.com/",
   },
