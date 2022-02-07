@@ -67,8 +67,11 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "web3": "^1.7.0"
+  },
   "devDependencies": {
+    
     "husky": "^7.0.2"
   }
 }
